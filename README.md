@@ -8,3 +8,11 @@ An app displaying data containing different categories and a functioning search 
  - Typescript
  - Redux
  - Graphql 
+
+
+Clone and run: yarn install
+
+ios: cd ios && pod install
+     yarn ios
+     
+android: yarn android
