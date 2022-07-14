@@ -17,7 +17,7 @@ export const COLORS = {
   white2: '#f9f6fc',
   white3: '#F0F0F0',
   white4: '#EEF1F5',
-  grey: '#6b717b',
+  grey: 'rgba(107,113,123,0.56)',
   red: '#B52323',
 
   // SPECIAL COLORS

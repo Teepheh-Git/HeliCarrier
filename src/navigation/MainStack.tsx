@@ -8,7 +8,7 @@ const MainStack = () => {
     <Navigator
       detachInactiveScreens
       screenOptions={{
-        headerShown: false,
+        // headerShown: false,
         animationEnabled: false,
       }}>
       <Screen options={options} name="Home" component={Home} />
